@@ -15,8 +15,8 @@ This project implements a simple TCP/UDP server-client application that allows m
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-
-##Compile 
+   
+## Compile 
 -gcc -o server server.c -lpthread
 -gcc -o client client.c -lpthread
 
