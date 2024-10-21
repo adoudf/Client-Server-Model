@@ -18,5 +18,6 @@ This project implements a simple TCP/UDP server-client application that allows m
    
 ## Compile 
 -gcc -o server server.c -lpthread
+
 -gcc -o client client.c -lpthread
 
